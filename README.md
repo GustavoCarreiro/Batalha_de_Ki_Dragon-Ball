@@ -1,4 +1,4 @@
-# Batalha_de_Ki_Dragon-Ball
+# Batalha de Ki Dragon-Ball
 
 O projeto "Batalha de Ki" consiste em um jogo de simulação de batalha entre os personagens do anime Dragon Ball Z. O jogo utiliza a API Key Gemini para buscar informações sobre os personagens, com seus nomes, níveis de Ki, habilidades e imagens.
 
