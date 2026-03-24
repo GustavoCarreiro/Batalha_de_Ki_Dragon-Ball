@@ -1,47 +1,50 @@
-# Batalha de Ki Dragon-Ball.
-O projeto "Batalha de Ki" consiste em um jogo de simulação de batalha entre os personagens do anime Dragon Ball Z. O jogo utiliza a API Key Gemini para buscar informações sobre os personagens, com seus nomes, níveis de Ki, habilidades e imagens.
+# 🐉 Batalha de Ki Dragon-Ball.
+
+## 📌 Sobre o projeto: 
+O projeto **"Batalha de Ki"** consiste em um jogo de simulação de batalha entre personagens do anime *Dragon Ball Z*.  
+O jogo utiliza a API Gemini para buscar informações sobre os personagens, como nomes, níveis de Ki, habilidades e imagens.
 
 ---
 
-## Fucionalidades.
+## 🎮 Funcionalidades: 
 
-- **Seleção de personagem**: O jogador pode escolaher um personagem da lista de personagens disponíveis, que é obtida através da API Gemini.
-- **Adversário aleatório**: O jogo seleciona um adversário aleatório para o jogador, também da lista de personagens disponíveis.
-- **Ataques com Ki**: Os personagens se revezam atacando com golpes especiais, com força do golpe calculada com base no níevl de Ki do personagem.
-- **Verificação de vencedor**: O jogo verifica qual personagem venceu a batalha com base em seus níveis de Ki.
-- **Exibição de informações**: As informações dos personagens, como nome, nível de Li e imagens, são exibidas durante o jogo.
-
----
-
-## Tecnologias utilizadas.
-
-- **Python**: Linguagem de programação utilizada no jogo.
-- **Biblioteca requests**: Utilizada para fazer requisições HTTP para a API Gemini.
-- **Biblioteca random**: Utilizada para gerar números aleatórios para a seleção de adversários e cálculo da força do golpe.
-- **API Key Gemini**: Utilizada para buscar informações sobre os personagens.
+- **Seleção de personagem**: O jogador pode escolher um personagem da lista disponível, obtida através da API Gemini.  
+- **Adversário aleatório**: O jogo seleciona um adversário aleatório a partir da mesma lista.  
+- **Ataques com Ki**: Os personagens se revezam em ataques especiais, com força baseada no nível de Ki.  
+- **Verificação de vencedor**: O sistema define o vencedor com base nos níveis de Ki dos personagens.  
+- **Exibição de informações**: Dados como nome, nível de Ki e imagens são exibidos durante o jogo.  
 
 ---
 
-## Público-alvo.
-O projeto é direcionado a fãs do anime Dragon Ball Z que desejam se divertir com um jogo de simulação de batalha entre os personagens.
+## 🛠️ Tecnologias utilizadas: 
+
+- **Python**  
+- **Biblioteca requests** – requisições HTTP para a API  
+- **Biblioteca random** – geração de valores aleatórios  
+- **API Gemini** – obtenção de dados dos personagens  
 
 ---
 
-## Melhorias futuras.
-
-- **Implementação de mais personagens**: Adicionar mais personagens à lista de personagens disponíveis para o jogador escolher.
-- **Habilidades especiais**: Implementar as habilidades especiais dos personagens, como Kamehameha, Genki Dama e outros.
-- **Interface gráfica**: Criar uma interface gráfica para melhorar a experiência do jogador.
-- **Modos de jogo**: Implementar diferentes modos de jogo, como um modo história e um modo multiplayer.
+## 🎯 Público-alvo: 
+O projeto é direcionado a fãs de *Dragon Ball Z* que desejam se divertir com uma simulação de batalhas entre personagens.
 
 ---
 
-## Considerações.
-O projeto ainda está em desenvolvimento e pode ser aprimorado com diversas funcionalidades e melhorias. A API Key Gemini é uma ferramenta poderosa que pode ser utilizada para criar diversos tipos de aplicações relacionadas ao anime Dragon Ball Z.
+## 🚀 Melhorias futuras
+
+- **Mais personagens**: Expandir a lista disponível  
+- **Habilidades especiais**: Implementar ataques como Kamehameha e Genki Dama  
+- **Interface gráfica**: Melhorar a experiência do usuário  
+- **Modos de jogo**: Adicionar modo história e multiplayer
+
+---
+
+## 📌 Considerações
+O projeto ainda está em desenvolvimento e pode ser aprimorado com novas funcionalidades.  
+A API Gemini se mostra uma ferramenta poderosa para aplicações interativas baseadas em conteúdo dinâmico.
 
 ---
 
 ## 👨‍💻 Autores:
 
 - Gustavo Carreiro
-
