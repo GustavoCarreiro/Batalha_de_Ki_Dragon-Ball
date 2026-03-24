@@ -28,6 +28,7 @@ O projeto é direcionado a fãs do anime Dragon Ball Z que desejam se divertir c
 ---
 
 ## Melhorias futuras.
+
 - **Implementação de mais personagens**: Adicionar mais personagens à lista de personagens disponíveis para o jogador escolher.
 - **Habilidades especiais**: Implementar as habilidades especiais dos personagens, como Kamehameha, Genki Dama e outros.
 - **Interface gráfica**: Criar uma interface gráfica para melhorar a experiência do jogador.
@@ -36,7 +37,6 @@ O projeto é direcionado a fãs do anime Dragon Ball Z que desejam se divertir c
 ---
 
 ## Considerações.
-
 O projeto ainda está em desenvolvimento e pode ser aprimorado com diversas funcionalidades e melhorias. A API Key Gemini é uma ferramenta poderosa que pode ser utilizada para criar diversos tipos de aplicações relacionadas ao anime Dragon Ball Z.
 
 ---
