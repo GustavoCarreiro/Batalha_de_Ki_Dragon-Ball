@@ -39,3 +39,9 @@ O projeto é direcionado a fãs do anime Dragon Ball Z que desejam se divertir c
 
 O projeto ainda está em desenvolvimento e pode ser aprimorado com diversas funcionalidades e melhorias. A API Key Gemini é uma ferramenta poderosa que pode ser utilizada para criar diversos tipos de aplicações relacionadas ao anime Dragon Ball Z.
 
+---
+
+## 👨‍💻 Autores:
+
+- Gustavo Carreiro
+
