@@ -1,4 +1,4 @@
-# 🐉 Batalha de Ki Dragon-Ball.
+# 🐉 Batalha de Ki - Dragon-Ball.
 
 ## 📌 Sobre o projeto: 
 O projeto **"Batalha de Ki"** consiste em um jogo de simulação de batalha entre personagens do anime *Dragon Ball Z*.  
